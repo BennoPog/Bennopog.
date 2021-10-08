@@ -1,0 +1,24 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .floatRight{float:right;margin-left:20px}
+  .floatRightClear{float:right;clear:right;margin-left:20px}
+
+  .button {
+  background-color:rgb(60, 63, 58);
+  border: none;
+  color: rgb(205, 48, 57);
+  padding: 30px 61px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 32px;
+  float: left;
+  
+  }
+  form { 
+    margin: 0 auto; 
+    }
